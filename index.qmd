@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+subtitle: "Sheng Tian"
 ---
 
 ## Welcome {#welcome}
